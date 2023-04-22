@@ -1,5 +1,5 @@
 greeting:
-  image: arungupta/greeting
+  image: onochieu/greeting
   replicaCount: 1
 
 image:
